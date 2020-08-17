@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0af7b2"],{"0f06":function(e,n,t){"use strict";t.r(n);var a=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",{attrs:{id:"videoApp"}},[e._v("这里是视频网站")])},c=[],i={},r=i,s=t("2877"),u=Object(s["a"])(r,a,c,!1,null,"4080775d",null);n["default"]=u.exports}}]);
+//# sourceMappingURL=chunk-2d0af7b2.0cf033ab.js.map
